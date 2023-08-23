@@ -1,3 +1,3 @@
-# Project 5 X-3
+# Project 6 X-3
 # Pengurutan Linier
-<h3><b><i>School Assignment 5</i></b></h3>
+<h3><b><i>School Assignment 6</i></b></h3>
